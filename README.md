@@ -29,7 +29,7 @@ A translator can simply go to one of those pull requests. And you will see a tab
 
 ## FAQ
 
-This FAQ will explain some basic concepts to get started with the basics that we need
+This FAQ will explain some basic concepts on github
 
 ### Do I have to download any software to use github?
 
